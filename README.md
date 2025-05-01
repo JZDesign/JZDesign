@@ -12,4 +12,6 @@ I've been able to work on some great applications like:
 - And others that are private enterprise apps
 
 
+And I was able to give a [talk](https://youtu.be/442sw_sNQ6k?t=13312) at Deep Dish Swift 2025!
+
 # 🔥☝️
