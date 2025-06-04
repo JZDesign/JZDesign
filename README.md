@@ -5,6 +5,8 @@ Hey!
 
 My name is Jacob. I'm a follower of Jesus, a father, and a nerd. About that nerd part, I'm a staff software engineer who's passionate about the Swift and Kotlin languages, and the author of [this blog](https://jacobzivandesign.com). I've been fortunate enough to be mentored by some of the brightest and kindest people I've ever met. They are certainly a major part of why I've made it to where I'm at, and I'm very grateful.
 
+Swift is my primary language, and that means that Apple apps are what I'm most adept at building. However, I'm an AWS Solutions Architect, I write websites, servers, and android apps too.
+
 I've been able to work on some great applications like:
 - [Everydollar](https://apps.apple.com/us/app/everydollar-personal-budget/id942571931) — both iOS and Android before it was rewritten in Xamarin due to some C# fixated leaders
 - [Kroger](https://apps.apple.com/us/developer/the-kroger-co/id403901189?see-all=i-phonei-pad-apps) — technically all of their umbrella's mobile shopping apps
