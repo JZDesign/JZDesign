@@ -8,7 +8,7 @@ My name is Jacob. I'm a follower of Jesus, a father, and a nerd. About that nerd
 I've been able to work on some great applications like:
 - [Everydollar](https://apps.apple.com/us/app/everydollar-personal-budget/id942571931) — both iOS and Android before it was rewritten in Xamarin due to some C# fixated leaders
 - [Kroger](https://apps.apple.com/us/developer/the-kroger-co/id403901189?see-all=i-phonei-pad-apps) — technically all of their umbrella's mobile shopping apps
-- [Gazelle](https://www.ramseysolutions.com/gazelle) — A Fintech app that didn't last
+- [Gazelle](https://www.ramseysolutions.com/gazelle) — A Fintech app that didn't last (looks like they finally took down the landing page, so that like may be dead forever)
 - And others that are private enterprise apps
 
 
